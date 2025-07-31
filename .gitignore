@@ -1,0 +1,11 @@
+# Node modules
+/frontend/node_modules
+
+# Ballerina build artifacts
+/backend/target
+
+# Environment files
+.env
+
+# IDE files
+.vscode
